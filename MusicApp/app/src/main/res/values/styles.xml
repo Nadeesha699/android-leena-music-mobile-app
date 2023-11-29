@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="chooses" parent="Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="android:textColor">#E91E63</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorAccent">@color/white</item>
+        <item name="android:background">@color/white</item>
+        <item name="drawableLeftCompat">@drawable/baseline_music_note_24</item>
+        <item name="android:radius">30dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
